@@ -6,7 +6,7 @@
 
 ![](codeblocks-instalacao-completa.png)
 
-4. Quando solicitado, definir o compilador sleecionando o instalado GNU GCC Compiler:
+4. Quando solicitado, definir o compilador selecionando o instalado GNU GCC Compiler:
 
 ![](codeblocks-instalacao-compilador.png)
 
