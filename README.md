@@ -9,7 +9,7 @@ Materiais de Aula - Lógica de Programação
 ## Conteúdo
 
 1. [Instalação do ambiente para estudo (Windows)](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD)
-1. Primeiro projeto em C no Code:Blocks
-1. Primeiros passos com o controle de versão no GitHub
+1. [Primeiro projeto em C no Code:Blocks](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD)
+1. Primeiros passos com o controle de versão no GitHub (_em breve_)
 
 Prof. Ermogenes Palacio
