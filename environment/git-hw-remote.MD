@@ -1,6 +1,6 @@
-# git e GitHub
+# Git e GitHub
 
-## Instalando o git
+## Instalando o Git
 
 * Baixe e instale o [Git para Windows](https://git-scm.com/download/win).
 * Para testar se a instalação está correta, abra o Prompt de Comando e execute `git --version`. Será exibida a versão do git instalada.
@@ -127,3 +127,64 @@ Você poderá notar a criação da pasta `.git` do versionamento local, e do arq
 
 ![](git-pull-arquivos.png)
 
+* Verifique, porém, que os fontes, apesar de estarem na mesma pasta, não estão no repositório remoto:
+
+```
+git status
+```
+
+![](git-status-apos-pull.png)
+
+* Vamos então adicionar todos os arquivos à área de `staging` do repositório local.
+
+```
+git add .
+```
+
+Perceba a mudança nos status dos arquivos.
+
+![](git-add-status.png)
+
+* Podemos agora efetivar as alterações pendentes no repositório local, indicando uma mensagem descritiva da alteração.
+
+```
+git commit -m "Adiciona arquivos iniciais do projeto"
+```
+
+![](git-commit-status.png)
+
+* Suba as alterações para o repositório remoto:
+
+```
+git push origin master
+```
+
+![](git-push.png)
+
+_Obs.: Será necessário informar as credenciais a cada Push._
+
+* Verifique no GitHub que seus arquivos agora estão sincronizados.
+
+![](git-pushed-github.png)
+
+## Baixando localmente um repositório remoto existente 
+
+Quando precisar abrir um projeto existente, utilize a sequência de clonagem.
+
+* Recupere o URL do repositório desejado.
+
+* Crie um diretório local onde achar mais conveniente.
+
+* Acesse o diretório escolhido via Prompt de Comando.
+
+* Execute a clonagem do repositório remoto:
+
+```
+git clone https://github.com/ermogenes/hello-world-github-c.git
+```
+
+![](git-clone.png)
+
+* Verifique que os arquivos remotos estão agora disponíveis para edição local.
+
+![](git-clone-dir.png)
