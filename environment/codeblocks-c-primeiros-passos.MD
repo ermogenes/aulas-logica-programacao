@@ -13,20 +13,33 @@
 
 ![](codeblocks-novo-projeto-local.png)
 
-* Defina os opções de compilador
+* Escolha o compilador GNU GCC Compiler e mantenha a criação dos diretórios de Debug e Release com as opções padrão.
 
 ![](codeblocks-novo-projeto-compilacao.png)
 
 * O projeto será criado com um programa de exemplo:
 
-![](codeblocks-novo-projeto-criado)
+![](codeblocks-novo-projeto-criado.png)
 
-- Estes são os arquivos criados até agora:
-
-![](codeblocks-novo-projeto-arquivos-iniciais.png)
-
-- Arquivos
+* Estes são os arquivos criados até agora:
   - `HelloWorld.cbp`: configurações do projeto
   - `main.c`: arquivo de código-fonte principal do programa
+  
+![](codeblocks-novo-projeto-arquivos-iniciais.png)
 
-* 
+* Criado o projeto, vamos compilá-lo executando o processo de Build:
+
+![](codeblocks-hw-build.png)
+
+* Serão criados diretórios com os arquivos-objeto (`obj`) e com os binários executáveis (`bin`), nas suas versões Debug.
+
+![](codeblocks-hw-build-arquivos.png)
+
+![](codeblocks-hw-build-objeto.png)
+
+![](codeblocks-hw-build-executavel.png)
+
+* Execute o programa:
+
+![](codeblocks-hw-run.png)
+
