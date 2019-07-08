@@ -43,3 +43,55 @@
 
 ![](codeblocks-hw-run.png)
 
+* Pressione `ENTER` duas vezes para retornar à IDE.
+
+# Melhorando o programa
+
+* Modifique a mensagem exibida:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Olá, mundo!\n");
+    printf("Meu nome é Ermogenes.\n\n");
+    printf("Este é o meu primeiro programa em C.\n");
+    return 0;
+}
+```
+
+* Compile e execute, utilizando o comando `Build and Run`:
+
+![](codeblocks-hw-build-and-run.png)
+
+* Perceba que os acentos e caracteres especiais utilizados pelo compilador não correspondem ao padrão do sistema operacional.
+
+![](codeblocks-hw-erro-encoding.png)
+
+* Faça as alterações abaixo para configurar corretamente o local:
+
+![](codeblocks-hw-erro-encoding-ajuste.png)
+
+...
+```c
+#include <locale.h>
+```
+...
+```c
+setlocale(LC_ALL,"portuguese");
+```
+...
+
+* Ao compilar e executar novamente temos a versão correta.
+
+![](codeblocks-hw-erro-encoding-ajustado.png)
+
+* Salve seu projeto.
+
+![](codeblocks-hw-salvar.png)
+
+* Terminado. Pode fechar o Code:Blocks. Quando precisar abrir novamente, use a opção `File > Open...` e escolha o arquivo do projeto `.cbp`:
+
+![](codeblocks-hw-abrir.png)
