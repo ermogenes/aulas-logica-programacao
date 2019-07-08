@@ -78,3 +78,52 @@ Obs.: Caso queira conhecer as opções de formatação, veja https://guides.gith
 * Seu arquivo foi alterado.
 
 ![](git-committed-github.png)
+
+## Sincronizando projeto local com projeto remoto
+
+Neste momento temos um projeto C no Code::Blocks criado localmente. Queremos subir estes arquivos para o controle de versão do GitHub, no repositório `hello-world-github-c`.
+
+O repositório contém o arquivo `README`, e o diretório local contém os arquivos do projeto. Vamos sincronizá-los.
+
+* No GitHub, identifique a URL do seu repositório remoto (ex.: https://github.com/ermogenes/hello-world-github-c.git).
+
+![](git-repo-url.png)
+
+* No Prompt de Comando do Windows, acesse o diretório onde está salvo o seu projeto (ex.: `C:\Users\ermogenes\Desktop\ProjetosCB\HelloWorld`), utilizando o comando `cd`:
+
+```
+cd C:\Users\ermogenes\Desktop\ProjetosCB\HelloWorld
+```
+
+Use o comando `dir` para exibir os arquivos do diretório. Devem ser exibidos os arquivos do projeto.
+
+![](git-cd-dir.png)
+
+* Inicie o versionamento de arquivos local no diretório do projeto:
+
+```
+git init
+```
+
+* Adicione a referência ao repositório remoto, usando o URL do seu repositório no GitHub:
+
+```
+git remote add origin https://github.com/ermogenes/hello-world-github-c.git
+```
+
+![](git-init-remote.png)
+
+* Traga a versão armazenada remotamente para o repositório local:
+
+```
+git pull origin master
+```
+
+![](git-pull.png)
+
+Você poderá notar a criação da pasta `.git` do versionamento local, e do arquivo `README` que estava remoto. Use o comando `dir` ou acesse a pasta pelo Windows.
+
+![](git-pull-dir.png)
+
+![](git-pull-arquivos.png)
+
