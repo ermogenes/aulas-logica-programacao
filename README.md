@@ -27,17 +27,29 @@ Materiais de Aula - Lógica de Programação
 1. Saída de dados _(em breve)_
 1. Variáveis e tipos de dados _(em breve)_
 1. Entrada de dados _(em breve)_
+1. Conversão de tipos _(em breve)_
 1. Operadores e expressões _(em breve)_
 1. Bibliotecas de funções _(em breve)_
 
 #### Estruturas de decisão
-1. Decisão simples _(em breve)_
+1. Decisão simples com _if_ _(em breve)_
 1. Decisões aninhadas _(em breve)_
-1. Decisão múltipla _(em breve)_
+1. Decisão múltipla com _switch_ _(em breve)_
 
 #### Laços de repetição
- _(em breve)_
+1. Laços condicionais _while_ _(em breve)_
+1. Laços _for_ _(em breve)_
  
-  _(continua)_
+#### Programação modular
+1. Procedimentos e funções _(em breve)_
+1. Escopo de nomes _(em breve)_
+
+#### _Arrays_
+1. Vetores _(em breve)_
+1. Matrizes _(em breve)_
+
+#### Tópicos adicionais
+1. _Structs_ _(em breve)_
+1. Arquivos _(em breve)_
 
 Prof. Ermogenes Palacio
