@@ -28,7 +28,7 @@ Materiais de Aula - Lógica de Programação
 1. Variáveis e tipos de dados _(em breve)_
 1. Entrada de dados _(em breve)_
 1. Operadores e expressões _(em breve)_
-1. Biblotecas de funções _(em breve)_
+1. Bibliotecas de funções _(em breve)_
 
 #### Estruturas de decisão
 1. Decisão simples _(em breve)_
