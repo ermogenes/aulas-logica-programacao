@@ -23,7 +23,6 @@ Materiais de Aula - Lógica de Programação
 
 #### Conceitos básicos
 
-1. Elementos de um programa em C _(em breve)_
 1. Saída de dados _(em breve)_
 1. Variáveis e tipos de dados _(em breve)_
 1. Entrada de dados _(em breve)_
