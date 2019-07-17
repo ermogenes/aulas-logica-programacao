@@ -38,7 +38,7 @@ Seja bem-vindo!
 
 ## Saída formatada
 
-### printf
+### `printf`
 
 _em breve_
 
@@ -58,6 +58,6 @@ putchar(tecla);    // exibe o caracter informado
 
 ## Entrada formatada
 
-### scanf
+### `scanf`
 
 _em breve_
