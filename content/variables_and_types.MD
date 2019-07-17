@@ -73,6 +73,14 @@ parcela_2 = 3;
 soma = parcela_1 + parcela_2;
 ```
 
+## Constantes
+
+Uma variável pode receber qualificadores que mudam seu comportamento. O mais importante é o qualificador `const`, que torna a variável somente para leitura. Qualquer tentativa de atribuição gerará um erro.
+
+```c
+const float PI = 3.1416F;
+```
+
 # Tipos de dados primitivos
 
 São os tipos mais básico de uma linguagem, da qual outros tipos podem ser derivados. São armazenados diretamente na posição de memória indicada pela variável que a contém, ocupando posições contíguas quando necessário.
