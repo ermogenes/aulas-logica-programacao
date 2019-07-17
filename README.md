@@ -23,6 +23,7 @@ Materiais de Aula - Lógica de Programação
 
 #### Conceitos básicos
 
+1. [Literais](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/literals.MD)
 1. Saída de dados _(em breve)_
 1. Variáveis e tipos de dados _(em breve)_
 1. Entrada de dados _(em breve)_
