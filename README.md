@@ -25,9 +25,7 @@ Materiais de Aula - Lógica de Programação
 
 1. [Literais](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/literals.MD)
 1. [Variáveis e tipos de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/variables_and_types.MD)
-1. Saída de dados _(em breve)_
-1. Entrada de dados _(em breve)_
-1. Conversão de tipos _(em breve)_
+1. [Entrada e saída de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/input_output.MD)
 1. Operadores e expressões _(em breve)_
 1. Bibliotecas de funções _(em breve)_
 
