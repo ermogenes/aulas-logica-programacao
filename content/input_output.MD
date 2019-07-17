@@ -40,7 +40,39 @@ Seja bem-vindo!
 
 ### `printf`
 
-_em breve_
+Exibe uma string formatada. Permite a composição de uma string a partir de uma string base contendo especificadores que serão substituídos por um igual número de argumentos.
+
+É a principal maneira de se exibir valores em C.
+
+Sintaxe:
+```c
+printf( string_base , argumentos... )
+```
+
+Exemplos:
+
+- Somente caracteres:
+```c
+printf("The GNU C Library");
+
+/* saída:
+The GNU C Library
+*/
+```
+
+- Usando sequências de escape:
+```c
+printf("GNU é uma sigla para\n\'GNU is not Unix\'.");
+
+/* saída:
+GNU é uma sigla para
+'GNU is not Unix'.
+*/
+```
+
+- Interpolação de argumentos em especificadores: (_em breve_)
+```c
+```
 
 ## Entrada simples
 
