@@ -49,6 +49,21 @@ Materiais de Aula - Lógica de Programação
 
 #### Tópicos adicionais
 1. _Structs_ _(em breve)_
+1. Enumeradores _(em breve)_
 1. Arquivos _(em breve)_
+
+## Referências
+
+### Manuais oficiais do Projeto GNU
+
+1. [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+1. [The GNU C Library](https://www.gnu.org/software/libc/manual/html_mono/libc.html)
+1. [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
+
+### Outros sites em português
+
+1. [Curso do Prof. Paulo Feofiloff, da USP](https://www.ime.usp.br/~pf/algoritmos/index.html)
+1. [Site C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html)
+1. [Referência de stdio.h](http://www.cmaismais.com.br/)
 
 Prof. Ermogenes Palacio
