@@ -70,6 +70,6 @@ Materiais de Aula - Lógica de Programação
 ### Assuntos complementares
 
 1. Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
-
+1. Representação de dados [[1](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)]
 ----
 Prof. Ermogenes Palacio, 2019-.
