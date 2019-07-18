@@ -218,8 +218,8 @@ scanf(" %f", &salario);
 printf("\nValores digitados:\n");
 
 printf("\nNome = %s", nome_completo);
-printf("\nIdade = %d", idade);
-printf("\nSalario = %8.2f", salario);
+printf("\nIdade = %d anos", idade);
+printf("\nSalario = R$ %.2f", salario);
 ```
 
 Saída:
@@ -234,8 +234,8 @@ Salario: 30934.7
 Valores digitados:
 
 Nome = Jair Messias Bolsonaro
-Idade = 64
-Salario = 30934.70
+Idade = 64 anos
+Salario = R$ 30934.70
 ```
 
 ([Lista completa](http://www.cplusplus.com/reference/cstdio/scanf/))
