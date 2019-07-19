@@ -75,8 +75,8 @@ Utiliza-se o símbolo de exponenciação `e` (ou `E`) para indicar um número em
 
 Literal | Notação científica | Valor | Literal equivalente
 --- | --- | --- | ---
-5e4 | 5 x 10^4 | 50.000,0 (cinquenta mil) | `50000`
-2e-3 | 2 x 10^-3 | 0,002 (dois milésimos) | `.002`
+`5e4` | 5 x 10^4 | 50.000,0 (cinquenta mil) | `50000`
+`2e-3` | 2 x 10^-3 | 0,002 (dois milésimos) | `.002`
 
 ## Strings
 
