@@ -89,7 +89,7 @@ Operadores utilizados para comparação entre valores numéricos. Retornam `1` n
 
 Operador | Operação | Exemplo | Resultado
 --- | --- | --- | ---
-`==` | Igualdade | `2 = 2` | Verdadeiro
+`==` | Igualdade | `2 == 2` | Verdadeiro
 `!=` | Desigualdade | `2 != 3` | Verdadeiro
 `<` | Menor que | `3 < 2` | Falso
 `>` | Maior que | `3 > 2` | Verdadeiro
@@ -171,7 +171,7 @@ Existem outros operadores em C, para efetuar [operações bit-a-bit](https://www
 
 ### Atribuição
 
-Além do operador simples de atribuição `=`, podemos simplificar algumas contruções de operações binárias utilizando operadores compostos.
+Além do operador simples de atribuição `=`, podemos simplificar algumas construções de operações binárias utilizando operadores compostos.
 
 Por exemplo, `x = x + 5` é a mesma coisa que `x += 5`.
 
@@ -248,7 +248,7 @@ printf("%.2f", r);
 
 Nesse caso, continua tudo igual, já que `a / b` é avaliado como `4` e só depois convertido para `4.`.
 
-Temos que usar _type casting_ antes da divisão, em um dos operadores:
+Temos que usar _type casting_ antes da divisão, em um dos operandos:
 
 ```c
 ...
