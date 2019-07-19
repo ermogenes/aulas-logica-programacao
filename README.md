@@ -6,18 +6,17 @@ Materiais de Aula - Lógica de Programação
 * IDE Code::Blocks (http://www.codeblocks.org/)
 * Controle de versão com Git (https://git-scm.com/), no GitHub (https://github.com/)
 
-### Ambiente e primeiros passos
-
-1. [Instalação do ambiente para estudo (Windows)](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD)
-1. [Primeiro projeto em C no Code::Blocks](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD)
-1. [EXTRA] [Primeiros passos com o controle de versão no GitHub](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/git-hw-remote.MD)
-
 ## Conteúdo
 
 ### Introdução
 
 1. [Computadores e programação](https://docs.google.com/presentation/d/12fEBMU-ONu4uSnBLsxsbvzmswePdr1OYM7W_A32GWLA/edit?usp=sharing)
 1. [Linguagem C - Hello, World!](https://docs.google.com/presentation/d/1037d31zuvv2WCOtZC4vfKUgfK_cJQiRz7KMpPml7U4M/edit?usp=sharing)
+
+### Ambiente e primeiros passos
+
+1. [Instalação do ambiente para estudo (Windows)](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD)
+1. [Primeiro projeto em C no Code::Blocks](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD)
 
 ### Programação estruturada
 
@@ -50,6 +49,10 @@ Materiais de Aula - Lógica de Programação
 1. _Structs_ _(em breve)_
 1. Enumeradores _(em breve)_
 1. Arquivos _(em breve)_
+
+### Controle de versão
+
+1. [Primeiros passos com o controle de versão no GitHub](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/git-hw-remote.MD)
 
 ## Referências
 
