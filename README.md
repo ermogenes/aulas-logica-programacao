@@ -27,7 +27,7 @@ Materiais de Aula - Lógica de Programação
 1. [Variáveis e tipos de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/variables_and_types.MD)
 1. [Entrada e saída de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/input_output.MD)
 1. [Expressões e operadores](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/expressions_operators.MD)
-1. Bibliotecas de funções _(em breve)_
+1. [Bibliotecas de funções](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/standard_library_functions.MD)
 
 #### Estruturas de decisão
 1. Decisão simples com _if_ _(em breve)_
