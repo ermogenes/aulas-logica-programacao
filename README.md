@@ -3,8 +3,8 @@
 Materiais de Aula - Lógica de Programação
 
 * Linguagem C (Dennis Ritchie, 1972)
-* IDE Code::Blocks (http://www.codeblocks.org/)
-* Controle de versão com Git (https://git-scm.com/), no GitHub (https://github.com/)
+* IDE [Code::Blocks](http://www.codeblocks.org/)
+* Controle de versão com [Git](https://git-scm.com/), no GitHub[(https://github.com/)]
 
 ## Conteúdo
 
