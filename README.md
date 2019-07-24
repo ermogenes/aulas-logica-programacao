@@ -72,5 +72,14 @@ Materiais de Aula - Lógica de Programação
 
 1. Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
 1. Representação de dados [[1](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)]
+
+### Top linguagens
+
+1. [IEEE Spectrum](https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages)
+1. [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+1. [GitHub](https://octoverse.github.com/projects#languages)
+1. [Stack Overflow](https://insights.stackoverflow.com/survey/2018/#most-popular-technologies)
+1. [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+
 ----
 Prof. Ermogenes Palacio, 2019-.
