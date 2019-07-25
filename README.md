@@ -56,8 +56,11 @@ Materiais de Aula - Lógica de Programação
 
 ## Atividades
 
-1. [Semana 1: Exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9)
-
+- Semana 1:
+    - Faça os [exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9), instale o [ambiente](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD) e crie seus [primeiros programas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD).
+- Semana 2:
+    - (_em breve_)
+    
 ## Referências
 
 ### Manuais oficiais do Projeto GNU
@@ -79,6 +82,11 @@ Materiais de Aula - Lógica de Programação
 1. O que acontece antes de `main()` [[Linux x86 Program Start Up or - How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)]
 1. [Computer Language History](https://www.levenez.com/lang/)
 
+### Listas curadas de materiais em inglês
+
+1. [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+1. [Professional Programming](https://github.com/charlax/professional-programming)
+
 ### Ferramentas adicionais
 
 1. [ConEmu](https://conemu.github.io/)
@@ -91,6 +99,13 @@ Materiais de Aula - Lógica de Programação
 1. [GitHub](https://octoverse.github.com/projects#languages)
 1. [Stack Overflow](https://insights.stackoverflow.com/survey/2018/#most-popular-technologies)
 1. [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+
+## Livros
+
+- SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
+- FURLAN et al., [Algoritmos e Lógica de Programação](http://www.cengage.com.br/ls/algoritmos-e-logica-de-programacao-2a-edicao-revista-e-ampliada/).
+- HILLIS, [O Padrão Gravado na Pedra](https://www.martinsfontespaulista.com.br/padrao-gravado-na-pedra-o-157104.aspx/p).
+- HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf)
 
 ----
 Prof. Ermogenes Palacio, 2019-.
