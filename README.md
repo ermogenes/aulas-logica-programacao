@@ -54,6 +54,10 @@ Materiais de Aula - Lógica de Programação
 
 1. [Primeiros passos com o controle de versão no GitHub](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/git-hw-remote.MD)
 
+## Atividades
+
+1. [Semana 1: Exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9)
+
 ## Referências
 
 ### Manuais oficiais do Projeto GNU
