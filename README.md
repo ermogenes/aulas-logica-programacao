@@ -98,8 +98,8 @@ Materiais de Aula - Lógica de Programação
 
 1. [IEEE Spectrum](https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages)
 1. [TIOBE Index](https://www.tiobe.com/tiobe-index/)
-1. [GitHub](https://octoverse.github.com/projects#languages)
-1. [Stack Overflow](https://insights.stackoverflow.com/survey/2018/#most-popular-technologies)
+1. [GitHub Octoverse](https://octoverse.github.com/projects#languages)
+1. [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2018/#most-popular-technologies)
 1. [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
 
 ## Livros
