@@ -57,7 +57,7 @@ Materiais de Aula - Lógica de Programação
 ## Atividades
 
 - Semana 1:
-    - Faça os [exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9), instale o [ambiente](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD) e crie seus [primeiros programas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD).
+    - Faça os [exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9), instale o [ambiente](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD) e crie seus [primeiros programas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD). Faça também os [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD).
 - Semana 2:
     - (_em breve_)
     
