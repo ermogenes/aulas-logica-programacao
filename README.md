@@ -109,5 +109,11 @@ Materiais de Aula - Lógica de Programação
 - SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
 - HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf)
 
+## Playlists e Cursos em Vídeo - YouTube
+
+- Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
+- NEITZKE, Neri, [Algoritmos e Logica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
+- DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
+- GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 ----
 Prof. Ermogenes Palacio, 2019-.
