@@ -116,5 +116,9 @@ Materiais de Aula - Lógica de Programação
 - SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
 - HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf)
 
+## Contributors
+
+[@diegoneri](https://github.com/diegoneri)
+
 ----
 Prof. Ermogenes Palacio, 2019-.
