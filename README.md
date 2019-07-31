@@ -75,6 +75,13 @@ Materiais de Aula - Lógica de Programação
 1. [Site C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html)
 1. [Referência de stdio.h](http://www.cmaismais.com.br/)
 
+### Playlists e Cursos em Vídeo - YouTube
+
+- Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
+- NEITZKE, Neri, [Algoritmos e Logica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
+- DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
+- GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
 ### Assuntos complementares
 
 1. Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
@@ -109,11 +116,5 @@ Materiais de Aula - Lógica de Programação
 - SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
 - HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf)
 
-## Playlists e Cursos em Vídeo - YouTube
-
-- Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
-- NEITZKE, Neri, [Algoritmos e Logica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
-- DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
-- GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 ----
 Prof. Ermogenes Palacio, 2019-.
