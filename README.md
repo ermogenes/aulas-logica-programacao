@@ -75,7 +75,7 @@ Materiais de Aula - Lógica de Programação
 1. [Site C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html)
 1. [Referência de stdio.h](http://www.cmaismais.com.br/)
 
-### Cursos em Vídeo (YouTube)
+### Cursos em vídeo (YouTube)
 
 1. Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
 1. NEITZKE, Neri, [Algoritmos e Lógica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
