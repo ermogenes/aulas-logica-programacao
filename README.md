@@ -77,10 +77,10 @@ Materiais de Aula - Lógica de Programação
 
 ### Cursos em Vídeo (YouTube)
 
-1. Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa)
-1. NEITZKE, Neri, [Algoritmos e Lógica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A)
-1. DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
-1. GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+1. Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
+1. NEITZKE, Neri, [Algoritmos e Lógica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
+1. DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
+1. GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV).
 
 ### Assuntos complementares
 
@@ -114,7 +114,7 @@ Materiais de Aula - Lógica de Programação
 - HILLIS, [O Padrão Gravado na Pedra](https://www.martinsfontespaulista.com.br/padrao-gravado-na-pedra-o-157104.aspx/p).
 - FURLAN et al., [Algoritmos e Lógica de Programação](http://www.cengage.com.br/ls/algoritmos-e-logica-de-programacao-2a-edicao-revista-e-ampliada/).
 - SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
-- HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf)
+- HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf).
 
 ## Contributors
 
