@@ -75,6 +75,13 @@ Materiais de Aula - Lógica de Programação
 1. [Site C Progressivo](https://www.cprogressivo.net/p/curso-de-c-online-para-iniciantes.html)
 1. [Referência de stdio.h](http://www.cmaismais.com.br/)
 
+### Playlists e Cursos em Vídeo - YouTube
+
+1. Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
+1. NEITZKE, Neri, [Algoritmos e Logica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
+1. DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
+1. GUANABARA, Gustavo, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
 ### Assuntos complementares
 
 1. Sistemas de numeração [[1](http://www.inf.ufsc.br/~bosco.sobral/downloads/Livro-Java-Como-Programar-Deitel-Ed6/additional/addnlApps/jhtp6_appE_NumberSystems.pdf)] [[2](https://pt.wikibooks.org/wiki/Eletr%C3%B4nica_Digital/Sistemas_de_Numera%C3%A7%C3%A3o)] [[3](http://www.mecaweb.com.br/eletronica/content/e_numeracao)]
