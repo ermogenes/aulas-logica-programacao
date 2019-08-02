@@ -79,6 +79,7 @@ Materiais de Aula - Lógica de Programação
 
 ### Cursos em vídeo (YouTube)
 
+1. SANTOS, Bruno, [Programação de Computadores I](https://www.youtube.com/playlist?list=PLxPO1Jz8r37etkXp9gjAEL07hZXmc2o_Y).
 1. Escola TI, [Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa).
 1. NEITZKE, Neri, [Algoritmos e Lógica de programação](https://www.youtube.com/playlist?list=PL7A8A8BBBF907A25A).
 1. DOS REIS, Fabio, [Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd).
