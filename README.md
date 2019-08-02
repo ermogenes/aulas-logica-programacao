@@ -59,7 +59,7 @@ Materiais de Aula - Lógica de Programação
 - Semana 1:
     - Faça os [exercícios de fixação](https://forms.gle/svvF5MrqK3S64NfR9), instale o [ambiente](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/ide_e_compilador.MD) e crie seus [primeiros programas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/codeblocks-c-primeiros-passos.MD). Faça também os [exercícios de lógica](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/logica_1.MD).
 - Semana 2:
-    - Faça os [exercícios de saídas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/saida_1.MD) e os de [variáveis](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/variaveis_1.MD). Guarde os arquivos pois podemos cobrar futuramente.
+    - Leia sobre [literais](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/literals.MD) e sobre [variáveis e tipos de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/variables_and_types.MD). Faça os [exercícios de saídas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/saida_1.MD) e os de [variáveis](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/variaveis_1.MD). Guarde os arquivos pois podemos cobrar futuramente.
 - Semana 3:
     - (_em breve_)
     
