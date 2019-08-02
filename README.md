@@ -98,6 +98,7 @@ Materiais de Aula - Lógica de Programação
 1. [Professional Programming](https://github.com/charlax/professional-programming)
 1. [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 1. [Awesome C](https://github.com/kozross/awesome-c)
+1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
 
 ### Ferramentas adicionais
 
