@@ -2,12 +2,21 @@ Para cada exercício abaixo, crie um projeto no CodeBlocks com o nome indicado e
 
 ---
 
-`[Variaveis]` Crie variáveis  seguindo as especificações. Nas colunas em branco utilize o que você achar mais adequado.
+`[Variaveis]` Crie e incialize variáveis seguindo as especificações. As informações não preenchidas (nas colunas em branco) devem ser definidas por você.
+
+```c
+int numeroMagico = -5;
+short int anoPapaJP2 = 1978;
+unsigned char idade = 17;
+
+// continua
+```
+O programa deverá compilar sem erros.
 
 Variável(is) | Tipo | Identificador | Valor | Observação
 --- | --- | --- | --- | ---
 Número inteiro qualquer | `int` | `numeroMagico` | `-5` | 
-Ano de entronização do Papa João Paulo II | `int` | `anoPapaJP2` | `1978` | 
+Ano de entronização do Papa João Paulo II | `short int` | `anoPapaJP2` | `1978` | 
 Sua idade | Inteiro sem sinal, com o menor tamanho possível | | Sua idade 
 PIBs do Brasil e da Noruega, em US$ | | | Valores segundo o [Banco Mundial](https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_PIB_nominal_per_capita) | Inicializar ambas na mesma linha
 A letra inicial do seu primeiro nome | `char` | `inicialPNome` | | 
