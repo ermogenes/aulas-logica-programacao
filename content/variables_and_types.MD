@@ -165,9 +165,9 @@ Idade
 Exemplos inválidos:
 - `3abcd4`, por iniciar com dígito
 - `ed@23`, por conter `@`
-- `#35`, por conter `#` e por iniciar com dígito
+- `#35`, por conter `#` e por não iniciar com caracter alfabético
 - `asda%`, por conter `%`
 - `ação`, por conter os caracteres especias `ç` e `ã`
-- `valor pedágio`, por conter espaço em branco e `à`
+- `valor pedágio`, por conter espaço em branco e `á`
 - `if`, por ser uma palavra reservada
 - `numero-anterior`, por conter `-`
