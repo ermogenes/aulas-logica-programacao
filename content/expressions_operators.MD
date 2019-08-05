@@ -261,3 +261,51 @@ printf("%.2f", r);
 4.50
 */
 ```
+
+## Precedência de operadores
+
+As operações são resolvidas na ordem de precedência dos operadores. Quando dois operadores estão na mesma ordem, avalia-se da esquerda para a direita. A ordem pode ser ajustada por parênteses.
+
+Tabela de precedência simplificada, maior precedência acima (somente operadores mais comuns):
+
+Operadores | Observação
+--- | ---
+Chamadas de funções | Ex.: `sqrt(25)`
+`+` `-` `++` `--` `()` | Operadores unários; parênteses
+`(tipo)` `*` `&` | _type cast_; operadores de ponteiros
+`*` `/` `%` | multiplicação, divisão e resto
+`+` `-` | Adição e subtração
+`<` `<=` `>` `>=` | Operadores relacionais
+`==` `!=` | Operadores relacionais de igualdade
+`&&` | Operador E
+`\|\|` | Operador OU
+`?:` | Condicional ternária
+`=` | Atribuições (inclui todas as atribuições compostas)
+
+[Tabela completa](https://en.cppreference.com/w/c/language/operator_precedence)
+
+Exemplo:
+
+```c
+int x, y;
+float z;
+
+x = 5;
+y = 2;
+
+z = ++x * 5 / (sqrt(4) + 3);
+```
+
+Assim, a expressão é executada na seguinte ordem:
+
+```c
+++x * 5 / (sqrt(4) + 3)         // função sqrt
+++x * 5 / (2.      + 3)         // operador incremento
+6   * 5 / (2.      + 3)         // parênteses e soma
+6   * 5 / 5.                    // multiplicação e divisão, da esquerda para a direita
+30      / 5.                    // 6.
+```
+
+```c
+printf("%.2f", z);   // 6.00
+```
