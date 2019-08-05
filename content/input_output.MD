@@ -176,6 +176,7 @@ int numero;
 unsigned int numero_positivo;
 char letra;
 float valor;
+double valor2;
 char texto [100];
 ```
 
@@ -184,6 +185,7 @@ Especificador | Entrada | Exemplo
 `%d` | dígitos, precedidos ou não por sinal | `scanf("%d", &numero);`
 `%u` | dígitos | `scanf("%u", &numero_positivo);`
 `%f` | dígitos, precedidos ou não por sinal, opcionalmente com ponto decimal | `scanf("%f", &valor);`
+`%ld` | idem a `%f`, mas `double` | `scanf("%ld", &valor2);`
 `%c` | Um caracter | `scanf("%c", &letra);`
 `%s` | Uma string de caracteres, terminada por espaço | `scanf("%s", texto);` (_perceba que não usamos `&`_)
 
