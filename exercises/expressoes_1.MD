@@ -13,6 +13,13 @@ Digite o segundo número: 40
 Soma: 70
 ```
 
+`[MilhasParaKm]` Receba uma medida em milhas e exiba seu equivalente em quilômetros. A medida em km é 1,609 vezes a medida em milhas.
+
+```
+Entre com a medida (em milhas): 1
+1609,00 Km
+```
+
 `[Medidas]` Receba uma medida em metros e exiba seus equivalentes em quilômetros e centímetros.
 
 ```
@@ -22,6 +29,15 @@ Entre com a medida (em metros): 150
 15000 cm
 150 m
 0,15 Km
+```
+
+`[AreaTrianguloRet]` Calcule a área de um triângulo retângulo, dados base (b) e altura (h). A área é dada pela metade do produto da base pela altura.
+
+```
+Base..: 3.
+Altura: 5.
+
+Área..: 7.5
 ```
 
 `[GrausCF]` Converta uma temperatura em °C para °F.
@@ -90,6 +106,31 @@ Peso (kg)...: 80
 IMC: 20,0 kg/m²
 ```
 
+`[FGTS]` Calcule a parcela do FGTS sobre o salário de um funcionário (8%).
+
+```
+Salário (R$)..: 2000.00
+
+FGTS: R$ 160.00
+```
+
+`[JurosSimples]` Calcule o montante final de um investimento a juros simples.
+
+j = c . i . t
+
+m = c + j
+
+```c
+Juros simples (j)
+
+Capital [c] (R$).......: 1200.00
+Taxa de juros [i] (%)..: 2
+Tempo [t] (meses)......: 15
+
+Juros (R$).....: 360,00
+Montante (R$)..: 1560,00
+```
+
 `[Projetil]` Um projétil é lançado em um ângulo `θ°` (teta graus) a uma velocidade inicial `v0 m/s`. Calcule, em metros, o alcance máximo `xmax` e a altura máxima atingida `hmax`.
 
 Para isso, precisamos:
@@ -103,7 +144,6 @@ Para isso, precisamos:
 ![](https://github.com/ermogenes/aulas-logica-programacao/raw/master/exercises/lancamento_obliquo.png)
 
 Exemplo:
-
 
 ```c
 -- Projétil --
