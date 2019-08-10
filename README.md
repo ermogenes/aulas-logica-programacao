@@ -61,7 +61,7 @@ Materiais de Aula - Lógica de Programação
 - Semana 2:
     - Leia sobre [literais](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/literals.MD) e sobre [variáveis e tipos de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/variables_and_types.MD). Faça os [exercícios de saídas](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/saida_1.MD) e os de [variáveis](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/variaveis_1.MD). Guarde os arquivos pois podemos cobrar futuramente. Ao final, faça os [exercícios de fixação](https://forms.gle/uwEsJ88PkP3aSbod7).
 - Semana 3:
-    - (_em breve_)
+    - Leia com atenção sobre [expressões e operadores matemáticos](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/expressions_operators.MD). Faça os [exercícios práticos de expressões](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/expressoes_1.MD). Alguns exercícios podem exigir [funções de biblioteca](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/standard_library_functions.MD).
     
 ## Referências
 
