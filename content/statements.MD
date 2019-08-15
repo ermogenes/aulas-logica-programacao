@@ -24,11 +24,11 @@ Exemplos:
 
 ## Comandos de decisão
 
-Os comandos `if` e `switch` permitem a execução condicional algum comando. Leia mais [aqui](content/if.MD) e [aqui](content/switch.MD). Outro comando relacionado é `break`.
+Os comandos `if` e `switch` permitem a execução condicional algum comando. Leia mais [aqui](if.MD) e [aqui](switch.MD). Outro comando relacionado é `break`.
 
 ## Laços de repetição
 
-Os comandos `while`, `do` e `for` permitem repetir a execução de algum comando em _loop_. Leia mais [aqui](content/while-do.MD) e [aqui](content/for.MD). Outros comandos relacionados com laços são `break` e `continue`.
+Os comandos `while`, `do` e `for` permitem repetir a execução de algum comando em _loop_. Leia mais [aqui](while-do.MD) e [aqui](for.MD). Outros comandos relacionados com laços são `break` e `continue`.
 
 ## Comandos compostos (_compound statements_)
 
