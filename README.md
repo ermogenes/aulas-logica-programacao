@@ -22,11 +22,12 @@ Materiais de Aula - Lógica de Programação
 
 #### Conceitos básicos
 
-1. [Literais](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/literals.MD)
-1. [Variáveis e tipos de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/variables_and_types.MD)
-1. [Entrada e saída de dados](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/input_output.MD)
-1. [Expressões e operadores](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/expressions_operators.MD)
-1. [Bibliotecas de funções](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/standard_library_functions.MD)
+1. [Literais](content/literals.MD)
+1. [Variáveis e tipos de dados](content/variables_and_types.MD)
+1. [Entrada e saída de dados](content/input_output.MD)
+1. [Expressões e operadores](content/expressions_operators.MD)
+1. [Bibliotecas de funções](content/standard_library_functions.MD)
+1. [Comandos](content/statements.MD)
 
 #### Estruturas de decisão
 1. Decisão simples com _if_ _(em breve)_
