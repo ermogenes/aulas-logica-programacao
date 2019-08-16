@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created by Flowgorithm 2.22.1 (http://flowgorithm.org) -->
 
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="500">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="650" height="625">
 	<g>
 		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="575,125 575,186"/>
 		<polygon fill="#000000" stroke="none" points="575,200 588,175 561,175"/>
