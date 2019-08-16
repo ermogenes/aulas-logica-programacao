@@ -31,7 +31,6 @@ Materiais de Aula - Lógica de Programação
 
 #### Estruturas de decisão
 1. [Decisão simples com _if_](content/if.MD)
-1. Decisões aninhadas _(em breve)_
 1. Decisão múltipla com _switch_ _(em breve)_
 
 #### Laços de repetição
