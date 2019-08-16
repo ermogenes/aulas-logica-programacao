@@ -81,7 +81,7 @@ Nas imagens abaixo, `comando___` representa um [comando](statements.MD) qualquer
 
 Neste caso, necessitamos de dois comandos diferentes, um em caso verdadeiro e outro em caso falso.
 
-![](if-else.svg)
+<img src="if-else.svg" width="500">
 
 ```c
 comandoAntes;
@@ -122,7 +122,7 @@ else
 
 Neste caso, necessitamos de um comando a mais no caso verdadeiro, mas nada a fazer caso falso.
 
-![](if-sem-else.svg)
+<img src="if-sem-else.svg" width="500">
 
 ```c
 comandoAntes;
@@ -147,7 +147,7 @@ if (idade == 15)
 
 Neste caso, necessitamos de mais de um comando diferente para cada um dos casos.
 
-![](if-else-bloco.svg)
+<img src="if-else-bloco.svg" width="500">
 
 ```c
 comandoAntes;
@@ -188,7 +188,7 @@ else
 
 #### `if` sem `else`, utilizando blocos
 
-![](if-sem-else-bloco.svg)
+<img src="if-sem-else-bloco.svg" width="500">
 
 ```c
 comandoAntes;
@@ -204,7 +204,7 @@ comandoDepois;
 
 Esta construção permite testar condições altamente relacionadas, uma das formas de se fazer desvio múltiplo.
 
-![](if-else-if.svg)
+<img src="if-else-if.svg">
 
 ```c
 comandoAntes;
@@ -255,7 +255,7 @@ else
 
 Podemos criar qualquer tipo de lógica, imaginando que cada comando pode ser também outro `if`.
 
-![](if-aninhado.svg)
+<img src="if-aninhado.svg" width="500">
 
 ```c
 comandoAntes;
