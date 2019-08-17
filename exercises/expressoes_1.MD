@@ -17,7 +17,7 @@ Soma: 70
 
 ```
 Entre com a medida (em milhas): 1
-1609,00 Km
+1,609 Km
 ```
 
 `[Medidas]` Receba uma medida em metros e exiba seus equivalentes em quilômetros e centímetros.
@@ -80,8 +80,8 @@ Média: 7.0
 Digite um número inteiro em base 10: 12
 
 Decimal: 12
-Octal: 014
-Hexadecimal: 0xC
+Octal: 14
+Hexadecimal: C
 ```
 
 `[VelocMedia]` Calcule a velocidade, a partir da distância (Δd, em metros) e do tempo (Δt, em segundos).
