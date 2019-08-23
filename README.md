@@ -54,6 +54,10 @@ Materiais de Aula - Lógica de Programação
 
 1. [Primeiros passos com o controle de versão no GitHub](https://github.com/ermogenes/aulas-logica-programacao/blob/master/environment/git-hw-remote.MD)
 
+### Depuração
+
+1. [Debug básico](content/debug.MD)
+
 ## Atividades
 
 - Semana 1:
@@ -63,7 +67,7 @@ Materiais de Aula - Lógica de Programação
 - Semana 3:
     - Leia com atenção sobre [expressões e operadores matemáticos](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/expressions_operators.MD). Faça os [exercícios práticos de expressões](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/expressoes_1.MD). Alguns exercícios podem exigir [funções de biblioteca](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/standard_library_functions.MD).
 - Semana 5:
-    - Leia sobre [comandos](content/statements.MD) e [decisão simples](content/if.MD). Faça a [lista de exercícios](exercises/decisao_simples_1.MD). Ajuste os [exercícios da semana anterior](exercises/expressoes_1.MD) de forma a não causarem erros devido a operações inválidas como divisão por zero ou raiz quadrada de número negativo.
+    - Leia sobre [comandos](content/statements.MD), [decisão simples](content/if.MD) e [depuração](content/debug.MD). Faça a [lista de exercícios](exercises/decisao_simples_1.MD). Ajuste os [exercícios da semana anterior](exercises/expressoes_1.MD) de forma a não causarem erros devido a operações inválidas como divisão por zero ou raiz quadrada de número negativo.
     
 ## Referências
 
