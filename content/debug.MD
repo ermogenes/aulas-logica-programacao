@@ -61,4 +61,17 @@ Para executar linha-a-linha, podemos utilizar a função "Next Line".
 
 ![](debug_09.png)
 
-_... continua ..._
+Perceba que as variáveis possuem valores indefinidos até que sejam inicializadas, e a janela "Watches" mostra os valores atuais, variando conforme as linha vão sendo executadas.
+
+![](debug_10.png)
+![](debug_11.png)
+![](debug_12.png)
+![](debug_13.png)
+
+Tal procedimento permite entender a sequência de execução dos comandos, e visualizar os estados intermediários das suas variáveis.
+
+## Visualizando o código de máquina
+
+Podemos visualizar o código _assembly_ gerado através da janela "Disassembly".
+
+![](debug_14.png)
