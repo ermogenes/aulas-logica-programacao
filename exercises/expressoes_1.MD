@@ -58,8 +58,8 @@ Ref.: https://pt.wikipedia.org/wiki/Celsius
 Ref.: https://pt.wikipedia.org/wiki/Celsius
 
 ```
-°C = 0
-0°C equivalem a 32°F
+°F = 0
+0°F equivalem a -17,78°F
 ```
 
 `[MediaAritmetica]` Calcule a média aritmética entre 3 números reais digitados pelo usuário.
