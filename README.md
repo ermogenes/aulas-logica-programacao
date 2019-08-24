@@ -57,6 +57,7 @@ Materiais de Aula - Lógica de Programação
 ### Depuração
 
 1. [Debug básico](content/debug.MD)
+2. [Passo-a-passo para configuração do Code::Blocks na Etec](/content/passosDebugCodeBlocks.mht) (faça download e abra pelo Windows)
 
 ## Atividades
 
