@@ -79,7 +79,7 @@ João tem 42 anos de idade.
 */
 ```
 
-- Interpolação de dois argumento, `int` e um `double`:
+- Interpolação de dois argumento, `int` e um `float`:
 ```c
 printf("João tem %d anos de idade e ganhou R$%f na loteria.", 42, 100000.);
 
@@ -108,7 +108,8 @@ Especificador | Saída | Exemplo
 --- | --- | ---
 `%d` | número inteiro com sinal | `printf("%d", -5);` exibe `-5`
 `%u` | número inteiro sem sinal | `printf("%u", 2);` exibe `2`
-`%f` | número fracionário | `printf("%f", .1);` exibe `0.100000`
+`%f` | número fracionário `float` | `printf("%f", .1);` exibe `0.100000`
+`%lf` | número fracionário `double` | `printf("%lf", .1);` exibe `0.100000`
 `%e` | número fracionário em notação científica | `printf("%e", .000005);` exibe `5.000000e-006`
 `%g` | opção mais curta entre `%f` e `%e` | `printf("%g", 500000000.);` exibe `5e+008`
 
@@ -185,7 +186,7 @@ Especificador | Entrada | Exemplo
 `%d` | dígitos, precedidos ou não por sinal | `scanf("%d", &numero);`
 `%u` | dígitos | `scanf("%u", &numero_positivo);`
 `%f` | dígitos, precedidos ou não por sinal, opcionalmente com ponto decimal | `scanf("%f", &valor);`
-`%ld` | idem a `%f`, mas `double` | `scanf("%ld", &valor2);`
+`%lf` | idem a `%f`, mas `double` | `scanf("%lf", &valor2);`
 `%c` | Um caracter | `scanf("%c", &letra);`
 `%s` | Uma string de caracteres, terminada por espaço | `scanf("%s", texto);` (_perceba que não usamos `&`_)
 
