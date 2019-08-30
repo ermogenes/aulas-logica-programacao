@@ -1,6 +1,6 @@
 # Decisão múltipla
 
-Teste uma expressão, comparando sequencialmente com diversas outras. Permite que se disponha múltiplos caminhos de execução, de acordo com o valor da primeira expressão.
+Testa uma expressão, comparando sequencialmente com diversas outras. Permite que se disponha múltiplos caminhos de execução, de acordo com o valor da primeira expressão.
 
 Exemplo:
 
@@ -132,11 +132,11 @@ Explicação:
   * O programa segue para o próximo `case`.
 * O programa testa `valor == 0`, que avalia como verdadeiro.
   * O programa executa todos os comandos (exceto outros `case`) até que termine o bloco `switch` ou encontre um `break`:
-    * Exibe `"Zero.\n"`;
-    * Pula `case 2:`;
-    * Exibe `"Dois.\n"`;
-    * Exibe `"Número par.\n"`;
-    * Executa `break`, que encerra o bloco `switch`.
+    * Exibe `"Zero.\n"`
+    * Pula `case 2:`
+    * Exibe `"Dois.\n"`
+    * Exibe `"Número par.\n"`
+    * Executa `break`, que encerra o bloco `switch`
 
 Sendo assim, poderíamos corrigir este exemplo adicionando `break` após cada bloco de comandos:
 
