@@ -34,7 +34,7 @@ Materiais de Aula - Lógica de Programação
 1. [Decisão múltipla com _switch_](content/switch.MD)
 
 #### Laços de repetição
-1. Laços condicionais _while_ _(em breve)_
+1. [Laços condicionais _while_ e _do_](content/while-do.MD)
 1. Laços _for_ _(em breve)_
  
 #### Programação modular
