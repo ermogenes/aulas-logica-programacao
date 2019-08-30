@@ -255,3 +255,29 @@ Valor a adicionar: 10
 
 Fim!
 ```
+
+## Comandos `break` e `continue`
+
+Você pode interferir no controle de um laço finalizando uma iteração ou finalizando a execução do laço.
+
+* `break` finaliza o laço como um todo.
+* `continue` finaliza a iteração atual, mas segue para a próxima iteração.
+
+```c
+while (condicao)
+{
+    comandoSempreExecutado;
+    break; // sai do laço
+    comandoNuncaExecutado;
+}
+```
+
+```c
+do
+{
+    comandoSempreExecutado;
+    continue; // termina essa iteração, mas continua a avaliar o laço
+    comandoNuncaExecutado;
+}
+while (condicao);
+```
