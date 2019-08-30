@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.22.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="1225">
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="275,125 275,186"/>
+		<polygon fill="#000000" stroke="none" points="275,200 288,175 261,175"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="275,950 275,1086"/>
+		<polygon fill="#000000" stroke="none" points="275,1100 288,1075 261,1075"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,25 A 50,50 0 0,0 175,125 L 375,125 A 50,50 0 0,0 375,25 Z"/>
+			<text x="275" y="40" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="275" dy="50" unicode-bidi="embed">Principal</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,1100 A 50,50 0 0,0 175,1200 L 375,1200 A 50,50 0 0,0 375,1100 Z"/>
+			<text x="275" y="1115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="275" dy="50" unicode-bidi="embed">Fim</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="275,300 275,361"/>
+			<polygon fill="#000000" stroke="none" points="275,375 288,350 261,350"/>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 125,200 L 125,300 L 425,300 L 425,200 Z"/>
+				<text x="275" y="215" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="275" dy="50" unicode-bidi="embed">i = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="300,400 575,400 575,486"/>
+				<polygon fill="#000000" stroke="none" points="575,500 588,475 561,475"/>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="575,775 575,900 438,900"/>
+				<polygon fill="#000000" stroke="none" points="425,900 449,913 449,886"/>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="275,850 275,438"/>
+				<polygon fill="#000000" stroke="none" points="275,425 261,449 288,449"/>
+				<text x="137" y="765" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="137" dy="50" unicode-bidi="embed">Verdadeiro</tspan>
+				</text>
+				<text x="187" y="965" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="187" dy="50" unicode-bidi="embed">Falso</tspan>
+				</text>
+				<g>
+					<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="575,600 575,661"/>
+					<polygon fill="#000000" stroke="none" points="575,675 588,650 561,650"/>
+					<g>
+						<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 375,500 L 375,600 L 775,600 L 775,500 Z"/>
+						<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="400,500 400,600"/>
+						<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="750,500 750,600"/>
+						<text x="575" y="515" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="575" dy="50" unicode-bidi="embed">a&#231;&#227;oDesejada</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 425,675 L 425,775 L 725,775 L 725,675 Z"/>
+						<text x="575" y="690" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="575" dy="50" unicode-bidi="embed">i = i+1</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,850 L 125,900 L 125,950 L 425,950 L 425,900 L 375,850 Z"/>
+					<text x="275" y="865" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="275" dy="50" unicode-bidi="embed">i &lt; 10</tspan>
+					</text>
+				</g>
+				<ellipse cx="275" cy="400" rx="25" ry="25" fill="#FFFFFF" stroke="#000000" stroke-width="3"/>
+			</g>
+		</g>
+	</g>
+</svg>
