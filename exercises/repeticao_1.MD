@@ -247,3 +247,53 @@ Desafio 2: Utilizar [outros métodos](https://en.wikipedia.org/wiki/Approximatio
 Quantas iterações (<=33)? 33
 Estimativa: 2,7182818320
 ```
+
+`[Fibonacci]` Receba um número inteiro `N`. Exiba os `N` primeiros números da sequência de Fibonacci.
+
+Nesta sequência, os dois primeiros números são 1. Os próximos números são a soma dos dois números anteriores.
+
+```
+1
+1
+1 + 1 = 2
+1 + 2 = 3
+2 + 3 = 5
+3 + 5 = 8
+...
+```
+
+Exemplo:
+```
+Sequência de Fibonacci
+Quantos termos (>=2)? 20
+1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765
+```
+
+`[MDC]` Calcule o máximo divisor comum entre dois números utilizando o Algoritmo de Euclides (iterativo).
+
+Método: Dados os números `a` e `b`, efetue a divisão e pegue o resto. Se o resto for zero, `a` é o mdc. Senão, `b` é o novo `a`, e o resto é o novo `b`. Repita o processo até que o resto seja zero.
+
+Exemplo de cálculo: https://pt.wikipedia.org/wiki/Algoritmo_de_Euclides#Exemplo
+
+```
+Máximo Divisor Comum (método iterativo)
+Digite o 1º número (a): 348
+Digite o 2º número (b): 156
+MDC(a, b) = 12
+```
+
+`[SomaDigitos]` Calcule a soma dos dígitos de um número inteiro positivo informado.
+
+Dicas:
+
+- O resto da divisão de um número por 10 retorna a quantidade de unidades. Ex: `483 % 10 == 3`.
+- A divisão inteira de um número por 10 tem o "efeito colateral" de excluir o último dígito. Ex: `483 / 10 == 48`.
+
+```
+Digite um número inteiro positivo: 5410587
+
+Dígitos: 7 8 5 0 1 4 5
+
+Soma = 30
+```
+
