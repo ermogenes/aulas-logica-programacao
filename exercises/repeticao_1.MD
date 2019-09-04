@@ -210,7 +210,7 @@ Tabela ASCII - Caracteres Imprimíveis
 
 ```
 
-`[Fatorial]` Receba um número inteiro positivo. Exiba o seu (fatorial)[https://pt.wikipedia.org/wiki/Fatorial].
+`[Fatorial]` Receba um número inteiro positivo. Exiba o seu [fatorial](https://pt.wikipedia.org/wiki/Fatorial).
 
 O fatorial de um número é dado pelo produto entre o número e seus antecessores naturais positivos:
 
