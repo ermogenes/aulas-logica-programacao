@@ -8,14 +8,14 @@ Para cada exercício abaixo, crie um projeto no CodeBlocks com o nome indicado e
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
 ```
 
-`[SequenciaPares]` Receba um número inteiro positivo. Exiba todos os números pares entre zero e o número digitado.
+`[SequenciaPares]` Receba um número inteiro positivo. Exiba todos os números pares entre zero e o número digitado (inclusive).
 
 ```
 Números pares entre 0 e ? 15
 0 2 4 6 8 10 12 14
 ```
 
-`[SequenciaLimites]` Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles.
+`[SequenciaLimites]` Receba 2 números inteiros. Se o segundo for menor que o primeiro, exibir uma mensagem de erro. Caso contrário, exibir todos os números inteiros entre eles (inclusive).
 
 ```
 Início: -3
@@ -210,12 +210,22 @@ Tabela ASCII - Caracteres Imprimíveis
 
 ```
 
-`[Fatorial]` Receba um número inteiro positivo. Exiba o seu fatorial.
+`[Fatorial]` Receba um número inteiro positivo. Exiba o seu (fatorial)[https://pt.wikipedia.org/wiki/Fatorial].
+
+O fatorial de um número é dado pelo produto entre o número e seus antecessores naturais positivos:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/d1d5bc7b1d7261435336bd75ce881ac70f58e723)
+
+Além disso, há um caso especial:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/22956a0fa255c6c9562eab440f8c23c2954a6cf4)
 
 ```
 Número: 5
 5! = 120
 ```
+
+Obs.: O método iterativo para cálculo de fatorial é altamente ineficiente. [Outros algoritmos conhecidos](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm) são mais eficientes.
 
 `[EstimaPi]` Estime o valor de π utilizando o [método de Leibniz](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80):
 
@@ -229,7 +239,8 @@ Quantas iterações? 1000000
 Estimativa: 3,141594
 ```
 
-Desafio:
+Desafio: Fixar o número de casas decimais de precisão da estimativa. Dica: verifique o erro entre a estimativa atual e a anterior de forma que a diferença esteja em dígitos menores que a precisão desejada.
+
 ```
 -- Estimador do valor de pi pelo método de Leibniz --
 Quantas casas de precisão (<=10)? 7
@@ -248,13 +259,16 @@ Quantas iterações (<=33)? 33
 Estimativa: 2,7182818320
 ```
 
-`[Fibonacci]` Receba um número inteiro `N`. Exiba os `N` primeiros números da sequência de Fibonacci.
+`[Fibonacci]` Receba um número inteiro `N`. Exiba os `N` primeiros números da [sequência de Fibonacci](https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci).
 
-Nesta sequência, os dois primeiros números são 1. Os próximos números são a soma dos dois números anteriores.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FibonacciBlocks.svg/270px-FibonacciBlocks.svg.png" height="170"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golden_spiral_in_rectangles.png" height="170"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/NautilusCutawayLogarithmicSpiral-withGoldenSpiral.jpg" height="170">
+
+Nesta sequência, os dois primeiros números são 0 e 1. Os próximos números são a soma dos dois números anteriores.
 
 ```
+0
 1
-1
+0 + 1 = 1
 1 + 1 = 2
 1 + 2 = 3
 2 + 3 = 5
@@ -265,8 +279,8 @@ Nesta sequência, os dois primeiros números são 1. Os próximos números são 
 Exemplo:
 ```
 Sequência de Fibonacci
-Quantos termos (>=2)? 20
-1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765
+Quantos termos (>=2)? 21
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765
 ```
 
 `[MDC]` Calcule o máximo divisor comum entre dois números utilizando o Algoritmo de Euclides (iterativo).
@@ -284,11 +298,6 @@ MDC(a, b) = 12
 
 `[SomaDigitos]` Calcule a soma dos dígitos de um número inteiro positivo informado.
 
-Dicas:
-
-- O resto da divisão de um número por 10 retorna a quantidade de unidades. Ex: `483 % 10 == 3`.
-- A divisão inteira de um número por 10 tem o "efeito colateral" de excluir o último dígito. Ex: `483 / 10 == 48`.
-
 ```
 Digite um número inteiro positivo: 5410587
 
@@ -297,3 +306,7 @@ Dígitos: 7 8 5 0 1 4 5
 Soma = 30
 ```
 
+Dicas:
+
+- O resto da divisão de um número por 10 retorna a quantidade de unidades. Ex: `483 % 10 == 3`.
+- A divisão inteira de um número por 10 tem o "efeito colateral" de excluir o último dígito. Ex: `483 / 10 == 48`.
