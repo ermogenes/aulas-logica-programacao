@@ -32,14 +32,13 @@ Materiais de Aula - Lógica de Programação
 #### Estruturas de decisão
 1. [Decisão simples com _if_](content/if.MD)
 1. [Decisão múltipla com _switch_](content/switch.MD)
+ 
+#### Programação modular
+1. Subrotinas _(em breve)_
 
 #### Laços de repetição
 1. [Laços condicionais _while_ e _do_](content/while-do.MD)
 1. Laços _for_ _(em breve)_
- 
-#### Programação modular
-1. Procedimentos e funções _(em breve)_
-1. Escopo de nomes _(em breve)_
 
 #### _Arrays_
 1. Vetores _(em breve)_
