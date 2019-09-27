@@ -34,7 +34,7 @@ Materiais de Aula - Lógica de Programação
 1. [Decisão múltipla com _switch_](content/switch.MD)
  
 #### Programação modular
-1. Subrotinas _(em breve)_
+1. [Subrotinas](content/subroutines.MD)
 
 #### Laços de repetição
 1. [Laços condicionais _while_ e _do_](content/while-do.MD)
@@ -68,7 +68,9 @@ Materiais de Aula - Lógica de Programação
     - Leia com atenção sobre [expressões e operadores matemáticos](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/expressions_operators.MD). Faça os [exercícios práticos de expressões](https://github.com/ermogenes/aulas-logica-programacao/blob/master/exercises/expressoes_1.MD). Alguns exercícios podem exigir [funções de biblioteca](https://github.com/ermogenes/aulas-logica-programacao/blob/master/content/standard_library_functions.MD).
 - Semana 6:
     - Leia sobre [comandos](content/statements.MD), [decisão simples](content/if.MD) e [depuração](content/debug.MD). Faça a [lista de exercícios](exercises/decisao_simples_1.MD). Ajuste os [exercícios da semana anterior](exercises/expressoes_1.MD) de forma a não causarem erros devido a operações inválidas como divisão por zero ou raiz quadrada de número negativo.
-    
+- Semana 10:
+    - Leia sobre [subrotinas](/content/subroutines.MD). Faça a [lista de exercícios](exercises/subrotinas_1.MD).
+
 ## Referências
 
 ### Manuais oficiais do Projeto GNU
