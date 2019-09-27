@@ -1,6 +1,4 @@
-# Lógica de Programação com C
-
-Materiais de Aula - Lógica de Programação
+![Lógica de Programação com C](LOGO.png)
 
 * Linguagem C (Dennis Ritchie, 1972)
 * IDE [Code::Blocks](http://www.codeblocks.org/)
