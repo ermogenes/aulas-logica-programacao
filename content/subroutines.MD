@@ -28,7 +28,7 @@ Assim como as variáveis, devemos declarar uma função antes do seu primeiro us
 
 Para declarar uma função, precisamos de um identificador, um tipo de retorno, e uma lista de argumentos:
 
-```
+```c
 tipoRetorno identificadorFuncao (listaArgumentos);
 ```
 
@@ -68,7 +68,7 @@ Este tipo de subrotina sem retorno é chamado de _procedimento_.
 
 Após a definição, devemos criar a lógica da nossa subrotina. Fazemos isso através da sua definição, da mesma maneira que em _main_: através de um comando composto.
 
-```
+```c
 tipoRetorno identificadorFuncao (listaArgumentos)
 {
     // comandos que implementam a lógica da função
@@ -121,7 +121,7 @@ Informa que uma subrotina deve ser executada. Se houver argumentos, os valores s
 
 Ex.:
 
-```
+```c
 int x = 1, z = 0;
 
 z = soma(x, 5);
@@ -182,5 +182,96 @@ void exibeErro(void)
 {
     printf("\nErro! Por favor verifique os dados e tente novamente.");
     getchar();
+}
+```
+
+### Exemplo 2: As quatro operações
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+double somar(double parcela1, double parcela2);
+double subtrair(double minuendo, double subtraendo);
+double multiplicar(double fator1, double fator2);
+double dividir(double dividendo, double divisor);
+
+void exibeTitulo(void);
+void exibeErro(void);
+void exibeValor(double valor);
+
+int main(void)
+{
+    setlocale(LC_ALL, "portuguese");
+
+    double n1 = 0, n2 = 0, soma = 0, diferenca = 0, produto = 0, quociente = 0;
+
+    exibeTitulo();
+
+    printf("Digite o 1o numero..: "); scanf("%lf", &n1);
+    printf("Digite o 2o numero..: "); scanf("%lf", &n2);
+
+    soma = somar(n1, n2);
+    printf("\nSoma:"); exibeValor(soma);
+
+    diferenca = subtrair(n1, n2);
+    printf("\nDiferença:"); exibeValor(diferenca);
+
+    produto = multiplicar(n1, n2);
+    printf("\nProduto:"); exibeValor(produto);
+
+    printf("\nQuociente:");
+    if (n2 == 0) {
+        exibeErro();
+    }
+    else
+    {
+        quociente = dividir(n1, n2);
+        exibeValor(quociente);
+    }
+
+    return 0;
+}
+
+double somar(double parcela1, double parcela2)
+{
+    return parcela1 + parcela2;
+}
+
+double subtrair(double minuendo, double subtraendo)
+{
+    return minuendo - subtraendo;
+}
+
+double multiplicar(double fator1, double fator2)
+{
+    return fator1 * fator2;
+}
+
+double dividir(double dividendo, double divisor)
+{
+    return dividendo / divisor;
+}
+
+void exibeTitulo(void)
+{
+    printf("++ -- ** // AS QUATRO OPERAÇÕES // ** -- ++\n");
+    printf("\nPor favor, entre com dois números.\n");
+}
+
+void exibeErro(void)
+{
+    printf("\n+-------------------------------------------------------+");
+    printf("\n| Erro! Por favor verifique os dados e tente novamente. |");
+    printf("\n+-------------------------------------------------------+\n");
+    getchar();
+}
+
+void exibeValor(double valor)
+{
+    printf("\n+=========+");
+    printf("\n| %7.2lf |", valor);
+    printf("\n+=========+\n");
 }
 ```
