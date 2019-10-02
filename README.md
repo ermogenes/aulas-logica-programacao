@@ -36,7 +36,7 @@
 
 #### Laços de repetição
 1. [Laços condicionais _while_ e _do_](content/while-do.MD)
-1. Laços _for_ _(em breve)_
+1. [Laços _for_](content/for.MD)
 
 #### _Arrays_
 1. Vetores _(em breve)_
