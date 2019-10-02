@@ -67,7 +67,9 @@
 - Semana 6:
     - Leia sobre [comandos](content/statements.MD), [decisão simples](content/if.MD) e [depuração](content/debug.MD). Faça a [lista de exercícios](exercises/decisao_simples_1.MD). Ajuste os [exercícios da semana anterior](exercises/expressoes_1.MD) de forma a não causarem erros devido a operações inválidas como divisão por zero ou raiz quadrada de número negativo.
 - Semana 10:
-    - Leia sobre [decisão múltipla](content/switch.MD) e [subrotinas](/content/subroutines.MD). Faça os [exercícios de decisão múltipla](exercises/decisao_multipla_1.MD) e os [exercícios de subrotinas](exercises/subrotinas_1.MD).
+    - Leia sobre [decisão múltipla](content/switch.MD). Faça os [exercícios](exercises/decisao_multipla_1.MD).
+- Semana 11:
+    - Leia sobre [subrotinas](/content/subroutines.MD). Faça os [exercícios](exercises/subrotinas_1.MD).
 
 ## Referências
 
