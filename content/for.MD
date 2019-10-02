@@ -123,6 +123,6 @@ int i;
 for (i = 1; i <= 5; i++);
 ```
 
-### Comandos `break` e `continue`
+## Comandos `break` e `continue`
 
 Tem o mesmo funcionamento que em outros laços.
