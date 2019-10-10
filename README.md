@@ -39,8 +39,7 @@
 1. [Laços _for_](content/for.MD)
 
 #### _Arrays_
-1. Vetores _(em breve)_
-1. Matrizes _(em breve)_
+1. [Arranjos, vetores e matrizes](content/array.MD)
 
 #### Tópicos adicionais
 1. _Structs_ _(em breve)_
