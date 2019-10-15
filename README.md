@@ -42,7 +42,7 @@
 1. [Arranjos, vetores e matrizes](content/array.MD)
 
 #### Tópicos adicionais
-1. _Structs_ _(em breve)_
+1. [_Structs_](content/structs.MD)
 1. Enumeradores _(em breve)_
 1. Arquivos _(em breve)_
 
