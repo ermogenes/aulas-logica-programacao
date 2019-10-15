@@ -68,8 +68,9 @@
 - Semana 10:
     - Leia sobre [decisão múltipla](content/switch.MD). Faça os [exercícios](exercises/decisao_multipla_1.MD).
 - Semana 11:
-    - Leia sobre [subrotinas](/content/subroutines.MD). Faça os [exercícios](exercises/subrotinas_1.MD).
-
+    - Leia sobre [subrotinas](content/subroutines.MD). Faça os [exercícios](exercises/subrotinas_1.MD).
+- Semana 13:
+    - Leia sobre [laços de repetição _while_ e _do_](content/while-do.MD). Faça os [exercícios](exercises/repeticao_1.MD).
 ## Referências
 
 ### Manuais oficiais do Projeto GNU
