@@ -129,6 +129,7 @@
 - FURLAN et al., [Algoritmos e Lógica de Programação](http://www.cengage.com.br/ls/algoritmos-e-logica-de-programacao-2a-edicao-revista-e-ampliada/).
 - SCHILDT, [C Completo e Total](http://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
 - HANLY & KOFFMAN, [Problem Solving and Program Design in C](http://jeisson.ecci.ucr.ac.cr/tmp/books/cpp/Problem%20Solving%20and%20Program%20Design%20in%20C%20%5B2015%5D.pdf).
+- FIORI, [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/o-fantastico-mundo-da-linguagem-c/)
 
 ## Contributors
 
