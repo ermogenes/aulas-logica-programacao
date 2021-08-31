@@ -72,3 +72,7 @@ Número | Representação binária | Número | Representação binária
 7 | `0111` | 15 | `1111`
 
 _Labirinto gerado usando http://www.mazegenerator.net/_
+
+---
+
+[Soluções para exercícios selecionados](logica_1_sln.MD)
