@@ -1,5 +1,7 @@
 # Exercícios de lógica
 
+---
+
 1. Leia com atenção os seguintes exemplos de algoritmos para execução de tarefas cotidianas.
 
 * [Trocar uma lâmpada](https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm)
@@ -9,11 +11,13 @@
 
 Escreva um algoritmo que descreva a tarefa de comprar pão, saindo de sua casa.
 
+---
+
 2. Escreva um algoritmo que descreva a tarefa de fritar um ovo.
 
 ---
 
-Exercícios abaixo extraídos de [FURLAN et al., 2005]:
+_Exercícios 3, 4 e 5 extraídos de [FURLAN et al., 2005]:_
 
 3. Decreva como descobrir a moeda falsa em um grupo de cinco moedas, fazendo uso de uma balança analítica (sabe-se que a moeda falsa é mais leve que as outras), com o menor número de pesagens possível. Lembre-se que sua descrição deve resolver o problema para qualquer situação. _Dica: É possível resolver com apenas duas pesagens._
 
@@ -37,6 +41,8 @@ Andar "n" casas para frente.
 Virar 90° em sentido anti-horário.
 Virar 90° em sentido horário.
 
+---
+
 7. Reescreva o exercício acima, utilizando a representação abaixo.
 
 - Cada instrução será escrita em uma linha.
@@ -49,6 +55,8 @@ Mnemônico | Ação | Exemplo
 `FTE, n.` | Anda "n" casas para frente. | para `n=3`, utilize `FTE, 3.`
 `VSA.` | Vira 90° em sentido anti-horário. | 
 `VSH.` | Vira 90° em sentido horário. | 
+
+---
 
 8. Reescreva o programa acima, traduzindo os mnemônicos para a representação binária utilizando a tabela abaixo.
 
